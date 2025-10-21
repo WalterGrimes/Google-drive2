@@ -4,7 +4,9 @@
  */
 import "./src/env.js";
 
-/** @type {import("next").NextConfig} */
-const config = {};
+/** /** @type {import("next").NextConfig} */
+const nextConfig = {
+  // Ваш конфиг Next.js здесь
+};
 
-export default config;
+export default nextConfig;
