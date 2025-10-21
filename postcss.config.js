@@ -1,10 +1,11 @@
+// postcss.config.js
+
 /** @type {import('postcss-load-config').Config} */
-const config = {
+module.exports = { // <-- ИСПОЛЬЗУЙТЕ module.exports ВМЕСТО export default
   plugins: {
-    tailwindcss: {},
+    // Tailwind CSS должен быть первым
+    tailwindcss: {}, 
+    // Autoprefixer должен идти после Tailwind
     autoprefixer: {},
-    // Убедитесь, что здесь нет "@tailwindcss/postcss"
   },
 };
-
-export default config;
