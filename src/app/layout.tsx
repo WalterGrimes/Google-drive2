@@ -1,10 +1,8 @@
 import type React from "react"
 import type { Metadata } from "next"
-// ✅ НОВЫЕ ИМПОРТЫ
 import { GeistSans } from "geist/font/sans" 
 import { GeistMono } from "geist/font/mono" 
 import '../styles/globals.css'
-
 
 const geistSans = GeistSans
 const geistMono = GeistMono
@@ -24,7 +22,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
         {children}
-        <Analytics />
+       
       </body>
     </html>
   )
