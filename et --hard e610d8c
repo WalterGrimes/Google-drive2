@@ -1,0 +1,25 @@
+[33m8dbbd79[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: ласт фикс надеюсь
+[33m22bb500[m HEAD@{1}: reset: moving to HEAD~16
+[33me610d8c[m HEAD@{2}: commit: Fix: Add missing drizzle-orm dependency to resolve Type error
+[33md8f5b82[m HEAD@{3}: commit: Fix: Ensure eslint-config-next is available for CI linting
+[33m792a653[m HEAD@{4}: commit: Cleanup: Remove non-existent Analytics component import and usage
+[33mf9f2b08[m HEAD@{5}: commit: Fix: Add missing 'geist' package dependency
+[33m619f9c8[m HEAD@{6}: commit: Fix: Corrected GeistMono import path to 'geist/font/mono'
+[33m1de1363[m HEAD@{7}: commit: Fix: Install missing 'typescript-eslint' package for flat config
+[33m51ed0bd[m HEAD@{8}: commit: chore: add @eslint/eslintrc to fix build linting
+[33md87a167[m HEAD@{9}: commit: Fix: Install missing build dependencies (eslint, drizzle-kit)
+[33mb72f1a8[m HEAD@{10}: commit: Fix: Update Tailwind CSS PostCSS plugin to use @tailwindcss/postcss
+[33m8db6505[m HEAD@{11}: commit: XZ
+[33m8f89ea5[m HEAD@{12}: commit: XZ
+[33m7fe8350[m HEAD@{13}: commit: ХЗ
+[33mc1a3299[m HEAD@{14}: commit: Наконец
+[33m4d4913e[m HEAD@{15}: commit: Просто ошибка с импортом css
+[33mbcaf604[m HEAD@{16}: commit: Просто ошибка с импортом css
+[33m529f8d6[m HEAD@{17}: commit: Просто ошибка с импортом css
+[33m22bb500[m HEAD@{18}: commit: Final fix: Switched postcss.config.js to module.exports for Netlify compatibility
+[33mb2d2680[m HEAD@{19}: commit: фикс передобавлен критический т3 env package и обнова лок файлов
+[33ma3052aa[m HEAD@{20}: commit: По инструкции добавляем файловый менеджер
+[33m4003c73[m HEAD@{21}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4003c73[m HEAD@{23}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4003c73[m HEAD@{25}: commit: First commit
+[33md8d3c9d[m HEAD@{26}: commit (initial): First check commit
